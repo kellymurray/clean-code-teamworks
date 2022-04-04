@@ -15,7 +15,7 @@ def output(item):
 
 
 summary = 'Clean Code Is Great!'
-desc = 'Actually, writing Clean Code can be pretty fun. You\'ll see!'
+desc = 'Writing clean code is fun!'
 new_date = datetime.now()
 publish = new_date.strftime('%Y-%m-%d %H:%M')
 
