@@ -1,3 +1,7 @@
+// ********
+// Processing Transactions
+// ********
+
 function processTransactions(transactions) { // this processes transactions
   if (transactions && transactions.length > 0) {
     for (const transaction of transactions) {
